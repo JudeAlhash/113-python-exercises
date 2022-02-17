@@ -11,4 +11,4 @@ for c in range(f, (f + (10-1) * r) + r, r):
 print('END  .')
 
 
-# formula to find 10th number of an arithmetic progression: decimo = primeiro + (10-lesson4.py1) * razao
+# formula to find 10th number of an arithmetic progression: decimo = primeiro + (10-1) * razao
