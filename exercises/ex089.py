@@ -4,7 +4,7 @@
 students = []
 while True:
     student = [str(input('Student name?')), int(input('First Grade:')), int(input('Second Grade:'))]
-    check = str(input('[No] To Quit')).strip().lower()[0]
+    check = str(input('[No] To Quit, [Yes] to proceed')).strip().lower()[0]
     students.append(student[:])
     student.clear()
     if check == 'n':

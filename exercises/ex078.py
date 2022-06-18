@@ -18,3 +18,4 @@ for a, b in enumerate(l):
         print(f'The largest numbers are in the following positions: {a}')
     if b == smallest:
         print(f'The smallest numbers are in the following positions: {a}')
+        
