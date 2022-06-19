@@ -26,7 +26,3 @@ while True:
         v += 1
     print('#'*15)
 print(f'Voce venceu {v} vezes.')
-
-
-
-
